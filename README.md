@@ -16,3 +16,18 @@
 [點我看 Google](https://www.google.com)
 
 ![這是一張圖片](https://via.placeholder.com/150)
+# 我的學習筆記
+
+這是我用 Markdown 撰寫的筆記。
+
+## 🔥 重點
+
+- **簡單易懂**
+- *格式清晰*
+- 支援 `程式碼區塊`
+
+---
+
+## 📌 延伸資源
+
+[Markdown 教學網站](https://markdown.tw/)
